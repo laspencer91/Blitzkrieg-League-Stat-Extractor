@@ -9,6 +9,7 @@ public class Player
     private Integer deaths;
     private Integer assists;
     private String team;
+    private Integer gamesPlayed = 0;
 
     public Player(String playerKey, String name, Integer kills, Integer deaths, Integer assists, String team) {
         this.profileLink = playerKey;
@@ -17,6 +18,9 @@ public class Player
         this.deaths = deaths;
         this.assists = assists;
         this.team = team;
+
+        if (kills != 0 || deaths != 0 || assists != 0)
+            gamesPlayed = 1;
     }
 
     public String getProfileLink() {
@@ -61,5 +65,25 @@ public class Player
 
     public String toString() {
         return profileLink + "\n" + name + "\n" + kills + "\n" + deaths + "\n" + assists + "\n" + team;
+    }
+
+    public void addStats(Player player) {
+        if (player.kills != 0 && player.deaths != 0 && player.assists != 0)
+        {
+            kills += player.kills;
+            deaths += player.deaths;
+            assists += player.assists;
+            gamesPlayed = 0;
+        }
+    }
+
+    public Integer getGamesPlayed()
+    {
+        return gamesPlayed;
+    }
+
+    public void setGamesPlayed(Integer gamesPlayed)
+    {
+        this.gamesPlayed = gamesPlayed;
     }
 }
