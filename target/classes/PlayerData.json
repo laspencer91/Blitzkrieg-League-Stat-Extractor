@@ -45,15 +45,6 @@
     "gamesPlayed": 0
   },
   {
-    "profileLink": "http://blitzkrieg.theplays.co.uk/player/polo",
-    "name": "Polo",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
-    "team": "Stay Pure",
-    "gamesPlayed": 0
-  },
-  {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/beatz",
     "name": "BeaTz",
     "kills": 0,
@@ -65,42 +56,6 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/warhorse",
     "name": "Warhorse",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
-    "team": "Spartan Gaming",
-    "gamesPlayed": 0
-  },
-  {
-    "profileLink": "http://blitzkrieg.theplays.co.uk/player/sickemx",
-    "name": "sickemx",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
-    "team": "Spartan Gaming",
-    "gamesPlayed": 0
-  },
-  {
-    "profileLink": "http://blitzkrieg.theplays.co.uk/player/kevlar",
-    "name": "Kevlar",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
-    "team": "Spartan Gaming",
-    "gamesPlayed": 0
-  },
-  {
-    "profileLink": "http://blitzkrieg.theplays.co.uk/player/dougski",
-    "name": "dougski",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
-    "team": "Spartan Gaming",
-    "gamesPlayed": 0
-  },
-  {
-    "profileLink": "http://blitzkrieg.theplays.co.uk/player/pablo-flakes",
-    "name": "Pablo Flakes",
     "kills": 0,
     "deaths": 0,
     "assists": 0,
@@ -222,7 +177,7 @@
     "deaths": 15,
     "assists": 0,
     "team": "The Maintenance Men",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/chocochumk",
@@ -231,7 +186,7 @@
     "deaths": 14,
     "assists": 2,
     "team": "The Maintenance Men",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/maf",
@@ -240,7 +195,7 @@
     "deaths": 13,
     "assists": 2,
     "team": "The Maintenance Men",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/mta",
@@ -249,7 +204,7 @@
     "deaths": 14,
     "assists": 14,
     "team": "The Maintenance Men",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/zyk",
@@ -258,7 +213,7 @@
     "deaths": 15,
     "assists": 3,
     "team": "The Maintenance Men",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/umek",
@@ -281,36 +236,36 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/calcifer",
     "name": "Calcifer",
-    "kills": 18,
-    "deaths": 6,
-    "assists": 0,
+    "kills": 39,
+    "deaths": 16,
+    "assists": 2,
     "team": "Negative Impulse",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/chipurrr",
     "name": "Chipurrr",
-    "kills": 11,
-    "deaths": 11,
-    "assists": 1,
+    "kills": 25,
+    "deaths": 23,
+    "assists": 5,
     "team": "Negative Impulse",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/gloom",
     "name": "Gloom",
-    "kills": 21,
-    "deaths": 7,
-    "assists": 5,
+    "kills": 36,
+    "deaths": 20,
+    "assists": 7,
     "team": "Negative Impulse",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/mojo",
     "name": "Mojo",
-    "kills": 16,
-    "deaths": 14,
-    "assists": 3,
+    "kills": 37,
+    "deaths": 29,
+    "assists": 5,
     "team": "Negative Impulse",
     "gamesPlayed": 0
   },
@@ -321,14 +276,14 @@
     "deaths": 11,
     "assists": 1,
     "team": "Negative Impulse",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/epps",
     "name": "Epps",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 13,
+    "deaths": 13,
+    "assists": 1,
     "team": "Negative Impulse",
     "gamesPlayed": 0
   },
@@ -434,45 +389,45 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/disrupt",
     "name": "disrupt",
-    "kills": 21,
-    "deaths": 7,
-    "assists": 3,
+    "kills": 35,
+    "deaths": 19,
+    "assists": 4,
     "team": "Primal",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/foxrox",
     "name": "Foxrox",
-    "kills": 21,
-    "deaths": 7,
-    "assists": 2,
+    "kills": 41,
+    "deaths": 21,
+    "assists": 3,
     "team": "Primal",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/vic",
     "name": "Vic",
-    "kills": 10,
-    "deaths": 11,
-    "assists": 3,
+    "kills": 25,
+    "deaths": 26,
+    "assists": 10,
     "team": "Primal",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/west",
     "name": "West",
-    "kills": 14,
-    "deaths": 6,
-    "assists": 1,
+    "kills": 29,
+    "deaths": 21,
+    "assists": 2,
     "team": "Primal",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/xlzz",
     "name": "xlZz",
-    "kills": 8,
-    "deaths": 7,
-    "assists": 1,
+    "kills": 26,
+    "deaths": 22,
+    "assists": 2,
     "team": "Primal",
     "gamesPlayed": 0
   },
@@ -483,7 +438,7 @@
     "deaths": 15,
     "assists": 0,
     "team": "mousecapades",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/carnylp",
@@ -492,7 +447,7 @@
     "deaths": 14,
     "assists": 0,
     "team": "mousecapades",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/lilp",
@@ -501,7 +456,7 @@
     "deaths": 15,
     "assists": 2,
     "team": "mousecapades",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/peevez",
@@ -510,7 +465,7 @@
     "deaths": 14,
     "assists": 2,
     "team": "mousecapades",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/tmaxxng",
@@ -519,7 +474,7 @@
     "deaths": 16,
     "assists": 1,
     "team": "mousecapades",
-    "gamesPlayed": 0
+    "gamesPlayed": 1
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/birdman",
@@ -540,11 +495,11 @@
     "gamesPlayed": 0
   },
   {
-    "profileLink": "http://blitzkrieg.theplays.co.uk/player/fourtyyy",
-    "name": "Fourtyyy",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/fortyyy",
+    "name": "Fortyyy",
+    "kills": 23,
+    "deaths": 16,
+    "assists": 2,
     "team": "Fab 5",
     "gamesPlayed": 0
   },
@@ -569,9 +524,9 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/sov",
     "name": "Sov",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 10,
+    "deaths": 17,
+    "assists": 2,
     "team": "Fab 5",
     "gamesPlayed": 0
   },
@@ -740,9 +695,9 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/illness",
     "name": "illness",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 4,
+    "deaths": 13,
+    "assists": 1,
     "team": "Be Kind Rewind",
     "gamesPlayed": 0
   },
@@ -776,27 +731,27 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/dogo",
     "name": "Dogo",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 15,
+    "deaths": 3,
+    "assists": 2,
     "team": "Lockdown",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/sh0tyz",
     "name": "Sh0tyz",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 18,
+    "deaths": 6,
+    "assists": 1,
     "team": "Lockdown",
     "gamesPlayed": 0
   },
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/zack",
     "name": "Zack",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 14,
+    "deaths": 4,
+    "assists": 2,
     "team": "Lockdown",
     "gamesPlayed": 0
   },
@@ -812,9 +767,9 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/pride",
     "name": "pride",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 12,
+    "deaths": 2,
+    "assists": 2,
     "team": "Lockdown",
     "gamesPlayed": 0
   },
@@ -875,9 +830,9 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/blade",
     "name": "BLADE",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 11,
+    "deaths": 7,
+    "assists": 3,
     "team": "Cali Kids",
     "gamesPlayed": 0
   },
@@ -893,9 +848,9 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/hero",
     "name": "Hero",
-    "kills": 0,
-    "deaths": 0,
-    "assists": 0,
+    "kills": 13,
+    "deaths": 6,
+    "assists": 4,
     "team": "Cali Kids",
     "gamesPlayed": 0
   },
@@ -911,10 +866,181 @@
   {
     "profileLink": "http://blitzkrieg.theplays.co.uk/player/lex",
     "name": "LeX",
+    "kills": 12,
+    "deaths": 4,
+    "assists": 1,
+    "team": "Cali Kids",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/polo",
+    "name": "Polo",
     "kills": 0,
     "deaths": 0,
     "assists": 0,
-    "team": "Cali Kids",
+    "team": "Stay Pure",
     "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/sickemx",
+    "name": "sickemx",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "team": "Spartan Gaming",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/kevlar",
+    "name": "Kevlar",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "team": "Spartan Gaming",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/dougski",
+    "name": "dougski",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "team": "Spartan Gaming",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/pablo-flakes",
+    "name": "Pablo Flakes",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "team": "Spartan Gaming",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/phearlp",
+    "name": "phearLP",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "team": "mousecapades",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/yanklp",
+    "name": "yankLP",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "team": "mousecapades",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/madman",
+    "name": "MaDMaN",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "team": "mousecapades",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/sixx",
+    "name": "sixx",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "team": "mousecapades",
+    "gamesPlayed": 0
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/bcj",
+    "name": "BcJ",
+    "kills": 15,
+    "deaths": 17,
+    "assists": 2,
+    "team": "Sedated",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/impaler",
+    "name": "iMPALER",
+    "kills": 16,
+    "deaths": 14,
+    "assists": 3,
+    "team": "Sedated",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/kory",
+    "name": "Kory",
+    "kills": 15,
+    "deaths": 20,
+    "assists": 3,
+    "team": "Sedated",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/lord_pnut",
+    "name": "Lord_Pnut",
+    "kills": 13,
+    "deaths": 15,
+    "assists": 3,
+    "team": "Sedated",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/tanaka",
+    "name": "Tanaka",
+    "kills": 12,
+    "deaths": 17,
+    "assists": 0,
+    "team": "Sedated",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/hodiosaur",
+    "name": "hodiosaur",
+    "kills": 1,
+    "deaths": 13,
+    "assists": 0,
+    "team": "Team Dinosaurs",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/gomiosaur",
+    "name": "gomiosaur",
+    "kills": 7,
+    "deaths": 13,
+    "assists": 0,
+    "team": "Team Dinosaurs",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/biakosaur",
+    "name": "biakosaur",
+    "kills": 4,
+    "deaths": 13,
+    "assists": 3,
+    "team": "Team Dinosaurs",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/nerzosaur",
+    "name": "nerzosaur",
+    "kills": 6,
+    "deaths": 12,
+    "assists": 0,
+    "team": "Team Dinosaurs",
+    "gamesPlayed": 1
+  },
+  {
+    "profileLink": "http://blitzkrieg.theplays.co.uk/player/polishprince",
+    "name": "PolishPrince",
+    "kills": 1,
+    "deaths": 13,
+    "assists": 0,
+    "team": "Team Dinosaurs",
+    "gamesPlayed": 1
   }
 ]

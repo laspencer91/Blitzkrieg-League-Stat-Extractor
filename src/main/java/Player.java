@@ -73,7 +73,7 @@ public class Player
             kills += player.kills;
             deaths += player.deaths;
             assists += player.assists;
-            gamesPlayed = 0;
+            gamesPlayed += 1;
         }
     }
 
